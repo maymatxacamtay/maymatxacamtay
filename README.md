@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/907051682234531902"><img align="right" src="(https://lanyard.cnrad.dev/api/907051682234531902)](https://discord.com/users/907051682234531902)" /></a>
+<a href="https://discord.com/users/907051682234531902"><img align="right" src="https://lanyard.cnrad.dev/api/907051682234531902(https://discord.com/users/907051682234531902)" /></a>
 
 <a href="discord.lsrp.vn"><img src="https://media.discordapp.net/attachments/990930450920923147/992739650827460618/Untitled-5.png.6a7b20e7934c9fb7a6a419f379bfd969.png" /></a>
 <details>

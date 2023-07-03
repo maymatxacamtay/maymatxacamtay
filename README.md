@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/907051682234531902"><img align="right" src="[![Discord Presence](https://lanyard.cnrad.dev/api/907051682234531902)](https://discord.com/users/907051682234531902)" /></a>
 
-<a href="discord.lsrp.vn"><img src="https://media.discordapp.net/attachments/990930450920923147/1096061991178747944/lsrpvn.png?width=1025&height=244" /></a>
+<a href="discord.lsrp.vn"><img src="https://media.discordapp.net/attachments/990930450920923147/992739650827460618/Untitled-5.png.6a7b20e7934c9fb7a6a419f379bfd969.png" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 

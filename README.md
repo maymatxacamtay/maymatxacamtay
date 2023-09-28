@@ -2,9 +2,9 @@
 <details>
   <summary><b>📋 About</b></summary>
 
-  Lead Admin from LSRPvn
+  V:Team
 
-  [🌐 Discord](https://discord.lsrp.vn 'DICORD SERVER') \
+  [🌐 Discord](https://v-team.io 'WEBSITE') \
   [📧 Email](mailto:yung.kiddyz@gmail.com 'MY EMAIL')
 </details>
 
